@@ -91,4 +91,3 @@ To get started with Confluence for our project, follow these steps:
 - [Confluence Tips and Tricks](https://confluence.atlassian.com/conf64/confluence-user-s-guide/confluence-tips-and-tricks)
 
 Feel free to explore these resources to deepen your understanding of Confluence and make the most out of its features. Happy documenting!
-
