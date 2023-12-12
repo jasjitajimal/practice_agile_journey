@@ -1,4 +1,4 @@
-# Jira Integration in Your Project
+# Understanding
 
 ## Overview
 
