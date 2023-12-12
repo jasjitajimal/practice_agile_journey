@@ -1,4 +1,4 @@
-# Understanding jir
+# Understanding jira:
 
 ## Overview
 
