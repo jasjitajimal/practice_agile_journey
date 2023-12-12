@@ -1,4 +1,4 @@
-# Understanding ji
+# Understanding jir
 
 ## Overview
 
