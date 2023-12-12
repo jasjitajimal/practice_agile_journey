@@ -64,7 +64,7 @@ To get started with Confluence for our project, follow these steps:
 - **Customization and Extensibility:**
     - Confluence is highly customizable, allowing teams to tailor spaces and pages to their specific needs. Additionally, add-ons and integrations extend functionality.
 
-### Common Uses of Confluence
+### Common Uses of Co]
 
 - **Documentation:**
     - Create and maintain comprehensive documentation for projects, processes, and knowledge sharing.
@@ -84,7 +84,7 @@ To get started with Confluence for our project, follow these steps:
 - **Agile Development:**
     - Integrate Confluence with Jira for seamless collaboration in agile development environments.
 
-
+f
 ### Additional Resources
 
 - [Confluence Documentation](https://confluence.atlassian.com/doc/confluence-documentation-135922.html)
