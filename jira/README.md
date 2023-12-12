@@ -1,4 +1,4 @@
-# Understanding j
+# Understanding ji
 
 ## Overview
 
