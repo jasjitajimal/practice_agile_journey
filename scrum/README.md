@@ -97,6 +97,7 @@ To implement Scrum in your project, follow these steps:
 4. **Embrace Feedback:**
     - Encourage open communication and adapt based on feedback.
 
+
 ## Customization and Comments
 
 - **Customization:**
