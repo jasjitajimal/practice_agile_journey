@@ -80,3 +80,4 @@ For detailed instructions, refer to the [official Jira documentation](https://ww
 ## License
 
 This project is licensed under the [MIT License](https://github.com/jasjitajimal/practice_agile_journey/blob/main/LICENSE).
+
