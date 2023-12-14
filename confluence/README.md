@@ -84,7 +84,6 @@ To get started with Confluence for our project, follow these steps:
 - **Agile Development:**
     - Integrate Confluence with Jira for seamless collaboration in agile development environments.
 
-f
 ### Additional Resources
 
 - [Confluence Documentation](https://confluence.atlassian.com/doc/confluence-documentation-135922.html)
