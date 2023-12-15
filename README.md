@@ -3,4 +3,3 @@ My personal notes on Jira, Confluence, and Scrum as I explore and understand the
 1. [Confluence](https://github.com/jasjitajimal/practice_agile_journey/tree/main/confluence)
 2. [Jira](https://github.com/jasjitajimal/practice_agile_journey/tree/main/jira)
 3. [Scrum](https://github.com/jasjitajimal/practice_agile_journey/tree/main/scrum)
-
