@@ -77,9 +77,7 @@ For detailed instructions, refer to the [official Jira documentation](https://ww
 - [Jira Official Website](https://www.atlassian.com/software/jira)
 - [Jira Documentation](https://www.atlassian.com/software/jira/documentation)
 
-## License
 
-This project is licensed under the [MIT License](https://github.com/jasjitajimal/practice_agile_journey/blob/main/LICENSE).
 
 
 
