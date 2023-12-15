@@ -89,6 +89,5 @@ To get started with Confluence for our project, follow these steps:
 - [Confluence Documentation](https://confluence.atlassian.com/doc/confluence-documentation-135922.html)
 - [Atlassian Community](https://community.atlassian.com/t5/Confluence/ct-p/confluence)
 - [Confluence Tips and Tricks](https://confluence.atlassian.com/conf64/confluence-user-s-guide/confluence-tips-and-tricks)
-- 
 
 Feel free to explore these resources to deepen your understanding of Confluence and make the most out of its features. Happy documenting!
