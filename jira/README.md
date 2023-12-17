@@ -74,7 +74,6 @@ For detailed instructions, refer to the [official Jira documentation](https://ww
 
 ## Additional Resources
 
-
 - [Jira Official Website](https://www.atlassian.com/software/jira)
 - [Jira Documentation](https://www.atlassian.com/software/jira/documentation)
 
