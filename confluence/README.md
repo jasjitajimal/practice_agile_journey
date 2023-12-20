@@ -10,7 +10,6 @@ Confluence is a powerful collaboration and documentation platform developed by A
 
 ### Key Features
 
-
 #### 1. **Rich Content Creation:**
 - Confluence allows you to create rich and dynamic content using a simple editor, making it easy to express ideas, document processes, and share information.
 
