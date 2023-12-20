@@ -86,7 +86,6 @@ To get started with Confluence for our project, follow these steps:
 
 ### Additional Resources
 
-
 - [Confluence Documentation](https://confluence.atlassian.com/doc/confluence-documentation-135922.html)
 - [Atlassian Community](https://community.atlassian.com/t5/Confluence/ct-p/confluence)
 - [Confluence Tips and Tricks](https://confluence.atlassian.com/conf64/confluence-user-s-guide/confluence-tips-and-tricks)
