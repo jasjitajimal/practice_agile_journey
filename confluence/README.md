@@ -14,7 +14,6 @@ Confluence is a powerful collaboration and documentation platform developed by A
 - Confluence allows you to create rich and dynamic content using a simple editor, making it easy to express ideas, document processes, and share information.
 
 #### 2. **Team Collaboration:**
-
 - Foster collaboration within your team by creating spaces for different projects, teams, or departments. Spaces act as containers for related pages and content.
 
 #### 3. **Page Hierarchy and Organization:**
