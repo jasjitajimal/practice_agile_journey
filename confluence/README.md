@@ -20,7 +20,6 @@ Confluence is a powerful collaboration and documentation platform developed by A
 - Organize your content hierarchically using pages and sub-pages. This helps in maintaining a structured and easily navigable documentation system.
 
 #### 4. **Versioning and History:**
-
 - Confluence keeps track of changes made to your content, allowing you to revert to previous versions if needed. This is crucial for maintaining a reliable and up-to-date knowledge base.
 
 #### 5. **Integration with Jira and Other Tools:**
