@@ -1,5 +1,4 @@
 # Understanding Confluence:
-
 ## Introduction to Confluence
 
 Welcome to the documentation for our project! In this section, we'll provide you with an overview of Confluence, an essential collaboration tool that empowers teams to create, share, and collaborate on content seamlessly.
