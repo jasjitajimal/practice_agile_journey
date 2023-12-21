@@ -17,6 +17,7 @@ Confluence is a powerful collaboration and documentation platform developed by A
 - Foster collaboration within your team by creating spaces for different projects, teams, or departments. Spaces act as containers for related pages and content.
 
 #### 3. **Page Hierarchy and Organization:**
+
 - Organize your content hierarchically using pages and sub-pages. This helps in maintaining a structured and easily navigable documentation system.
 
 #### 4. **Versioning and History:**
