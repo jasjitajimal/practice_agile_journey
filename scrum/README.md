@@ -70,6 +70,7 @@ Scrum addresses several challenges in traditional project management, offering t
 4. **Continuous Improvement:**
     - Sprint retrospectives promote learning and refinement.
 
+
 5. **Increased Product Quality:**
     - Regular testing and feedback lead to a more robust product.
 
