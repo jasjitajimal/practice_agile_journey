@@ -50,7 +50,6 @@ Scrum is an agile framework designed to facilitate collaboration, communication,
 
 ## Why Scrum is Needed
 
-
 Scrum addresses several challenges in traditional project management, offering the following benefits:
 
 - **Adaptability:** Embraces change and allows teams to adjust priorities and goals.
