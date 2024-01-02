@@ -2,6 +2,7 @@
 
 ## Introduction
 
+
 Scrum is an agile framework designed to facilitate collaboration, communication, and continuous improvement in software development and other complex projects. It provides a structured yet flexible approach to managing work, emphasizing adaptability and customer satisfaction.
 
 ## How Scrum Works
