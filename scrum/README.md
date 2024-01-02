@@ -56,7 +56,6 @@ Scrum addresses several challenges in traditional project management, offering t
 - **Transparency:** Provides visibility into the project's progress and challenges.
 - **Customer Satisfaction:** Frequent deliveries ensure customer feedback is quickly incorporated.
 
-
 ## Advantages of Scrum
 
 1. **Flexibility:**
