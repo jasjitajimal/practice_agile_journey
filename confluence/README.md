@@ -27,7 +27,6 @@ Confluence is a powerful collaboration and documentation platform developed by A
 
 ### Getting Started
 
-
 To get started with Confluence for our project, follow these steps:
 
 1. **Accessing Confluence:**
