@@ -22,6 +22,7 @@ Confluence is a powerful collaboration and documentation platform developed by A
 #### 4. **Versioning and History:**
 - Confluence keeps track of changes made to your content, allowing you to revert to previous versions if needed. This is crucial for maintaining a reliable and up-to-date knowledge base.
 
+
 #### 5. **Integration with Jira and Other Tools:**
 - Seamlessly integrate Confluence with other Atlassian tools like Jira, Bitbucket, and Trello to enhance project management and collaboration.
 
