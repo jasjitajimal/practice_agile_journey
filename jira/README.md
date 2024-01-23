@@ -1,6 +1,5 @@
 # Understanding jira:
 
-
 ## Overview
 
 Jira is a powerful project management and issue tracking tool that helps teams plan, track, and manage work. It is widely used in software development, but its flexibility makes it suitable for various project management scenarios.
