@@ -4,6 +4,7 @@
 
 Welcome to the documentation for our project! In this section, we'll provide you with an overview of Confluence, an essential collaboration tool that empowers teams to create, share, and collaborate on content seamlessly.
 
+
 ### What is Confluence?
 
 Confluence is a powerful collaboration and documentation platform developed by Atlassian. It serves as a centralized hub for teams to create, share, and organize their work, making collaboration more efficient and transparent. Whether you are working on software development, project management, or any collaborative effort, Confluence provides a flexible and feature-rich environment to streamline your processes.
